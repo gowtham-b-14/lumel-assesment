@@ -2,6 +2,8 @@
 
 Simple Hierarchical Table Website
 
+Vercel deploy - https://lumel-assesment-plum.vercel.app/
+
 https://github.com/gowtham-b-14/lumel-assesment
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
