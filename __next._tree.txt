@@ -1,0 +1,2 @@
+:HL["/lumel-assesment/_next/static/chunks/1e8cd1eced84e9c0.css","style"]
+0:{"buildId":"oh8QPBELvFpPUohb-bwXQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
